@@ -1,0 +1,10 @@
+setup.sh        # sets up the project for a new developer
+                # installs dependencies, creates .env, sets up database
+
+deploy.sh       # deploys the app to the server
+                # pulls latest code, restarts server, clears cache
+
+test.sh         # runs all tests before deployment
+                # stops deployment if tests fail
+backup.sh       # backs up database automatically every night
+x

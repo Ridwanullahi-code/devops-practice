@@ -1,0 +1,15 @@
+{
+  "name": "devops-practice",
+  "version": "1.0.0",
+  "description": "Hello from WSL",
+  "main": "apps.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
